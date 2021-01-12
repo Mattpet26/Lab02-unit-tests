@@ -15,7 +15,7 @@ Clone down the repository with: git clone (clone here)
 Start up VSCode and open up the application
 Press the green play button to fire up the console!
 
-![image](../1.PNG)
+![image](1.PNG)
 
 ## Architecture
 C# and VSC 
